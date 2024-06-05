@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60d54e8-d593-432f-a989-1f04969e1bd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GradingStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d60d54e8-d593-432f-a989-1f04969e1bd0" name="Default Changelist" comment="2d Array - DS">
+      <changelist_data name="phuc" email="nguyenphuc220100@gmail.com" />
+      <change afterPath="$PROJECT_DIR$/src/AppleAndOrange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,14 +22,33 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="phuc &lt;nguyenphuc220100@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nguyenphuc22&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c2cc1e94-cada-4ac7-96d5-d797cd044225" />
+        <option name="url" value="https://github.com/nguyenphuc22/solutionHackerRank.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="1WehPEi7i0xTVES5hXG8W4ABYnC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GradingStudent.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -53,7 +73,27 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AppleAndOrange">
+    <configuration name="AppleAndOrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppleAndOrange.AppleAndOrange" />
+      <module name="HelloWord" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppleAndOrange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradingStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GradingStudent.GradingStudent" />
+      <module name="HelloWord" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="HelloWord" />
@@ -63,6 +103,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppleAndOrange" />
+        <item itemvalue="Application.GradingStudent" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -100,10 +142,17 @@
       <option name="presentableId" value="Default" />
       <updated>1579515941586</updated>
       <workItem from="1717415366765" duration="1573000" />
+      <workItem from="1717417716902" duration="38000" />
+      <workItem from="1717417795535" duration="25000" />
+      <workItem from="1717592765090" duration="347000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2d Array - DS" />
+    <option name="LAST_COMMIT_MESSAGE" value="2d Array - DS" />
   </component>
 </project>

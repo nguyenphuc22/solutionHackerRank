@@ -1,11 +1,7 @@
+package AppleAndOrange;
+
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.function.*;
-import java.util.regex.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
@@ -26,12 +22,28 @@ class Result {
 
     public static void countApplesAndOranges(int s, int t, int a, int b, List<Integer> apples, List<Integer> oranges) {
         // Write your code here
+        int totalApples = 0;
+        int totalOranges = 0;
 
+        for (int apple : apples) {
+            if (a + apple >= s && a + apple <= t) {
+                totalApples++;
+            }
+        }
+
+        for (int orange : oranges) {
+            if (b + orange >= s && b + orange <= t) {
+                totalOranges++;
+            }
+        }
+
+        System.out.println(totalApples);
+        System.out.println(totalOranges);
     }
 
 }
 
-public class Solution {
+public class AppleAndOrange {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
@@ -65,4 +77,6 @@ public class Solution {
 
         bufferedReader.close();
     }
+
+
 }
