@@ -25,7 +25,15 @@ class Result {
 
     public static int getTotalX(List<Integer> a, List<Integer> b) {
         // Write your code here
-
+        int count = 0;
+        for (int i = a.get(a.size() - 1); i <= b.get(0); i++) {
+            int finalI = i;
+            int finalI1 = i;
+            if (a.stream().allMatch(factor -> finalI % factor == 0) && b.stream().allMatch(factor -> factor % finalI1 == 0)) {
+                count++;
+            }
+        }
+        return count;
     }
 
 }
