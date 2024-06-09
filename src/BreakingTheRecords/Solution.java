@@ -1,3 +1,5 @@
+package BreakingTheRecords;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -21,7 +23,20 @@ class Result {
 
     public static List<Integer> breakingRecords(List<Integer> scores) {
         // Write your code here
-
+        int min = scores.get(0);
+        int max = scores.get(0);
+        int minCount = 0;
+        int maxCount = 0;
+        for (int i = 1; i < scores.size(); i++) {
+            if (scores.get(i) < min) {
+                min = scores.get(i);
+                minCount++;
+            } else if (scores.get(i) > max) {
+                max = scores.get(i);
+                maxCount++;
+            }
+        }
+        return Arrays.asList(maxCount, minCount);
     }
 
 }

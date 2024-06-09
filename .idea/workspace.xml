@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d60d54e8-d593-432f-a989-1f04969e1bd0" name="Default Changelist" comment="2d Array - DS">
       <changelist_data name="phuc" email="nguyenphuc220100@gmail.com" />
-      <change afterPath="$PROJECT_DIR$/src/BetweenTwoSets/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BreakingTheRecords/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +35,12 @@
     &quot;assignee&quot;: &quot;nguyenphuc22&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nguyenphuc22/solutionHackerRank.git",
-    "accountId": "c2cc1e94-cada-4ac7-96d5-d797cd044225"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nguyenphuc22/solutionHackerRank.git&quot;,
+    &quot;accountId&quot;: &quot;c2cc1e94-cada-4ac7-96d5-d797cd044225&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -143,7 +143,8 @@
       <workItem from="1717417716902" duration="38000" />
       <workItem from="1717417795535" duration="25000" />
       <workItem from="1717592765090" duration="656000" />
-      <workItem from="1717810355074" duration="1612000" />
+      <workItem from="1717810355074" duration="2304000" />
+      <workItem from="1717895078488" duration="974000" />
     </task>
     <servers />
   </component>
