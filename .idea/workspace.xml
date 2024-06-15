@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d60d54e8-d593-432f-a989-1f04969e1bd0" name="Default Changelist" comment="2d Array - DS">
       <changelist_data name="phuc" email="nguyenphuc220100@gmail.com" />
-      <change afterPath="$PROJECT_DIR$/src/SubarrayDivision/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/JavaDatypes/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubarrayDivision/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubarrayDivision/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
   "keyToString": {
     "Application.AppleAndOrange.executor": "Run",
     "Application.GradingStudent.executor": "Run",
+    "Application.Java.JavaDatypes.Solution.executor": "Run",
     "Application.Solution.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -73,7 +75,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Java.JavaDatypes.Solution">
     <configuration name="AppleAndOrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AppleAndOrange.AppleAndOrange" />
       <module name="HelloWord" />
@@ -90,6 +92,19 @@
     <configuration name="GradingStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GradingStudent.GradingStudent" />
       <module name="HelloWord" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java.JavaDatypes.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.JavaDatypes.Solution" />
+      <module name="HelloWord" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.JavaDatypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,6 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java.JavaDatypes.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.AppleAndOrange" />
         <item itemvalue="Application.GradingStudent" />
@@ -159,7 +175,8 @@
       <workItem from="1717417795535" duration="25000" />
       <workItem from="1717592765090" duration="656000" />
       <workItem from="1717810355074" duration="2304000" />
-      <workItem from="1717895078488" duration="2543000" />
+      <workItem from="1717895078488" duration="3951000" />
+      <workItem from="1718414105226" duration="348000" />
     </task>
     <servers />
   </component>
